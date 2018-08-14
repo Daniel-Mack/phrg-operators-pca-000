@@ -90,6 +90,10 @@ puts "Hey, it's not 2015!" unless this_year == 2015
 
 **A Debugging Reminder:** You can interact with your methods by typing `require 'pry'` at the top of your file, running `gem install pry` in the terminal, and then placing the line `binding.pry` inside the method that you want to play around with. Then, when you run the test suite using `learn` in your terminal, your program will freeze when it hits the binding and you'll be able to explore your method inside your console.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-students/phrg-operators-pca-000/pulls) or [pull-request](https://github.com/learn-co-students/phrg-operators-pca-000/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 
 * [Ruby Operators](http://www.techotopia.com/index.php/Ruby_Operators)
